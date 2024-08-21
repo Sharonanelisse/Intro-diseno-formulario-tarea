@@ -1,0 +1,16 @@
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\RegistroContactosApp\RegistroContactosApp\bin\Debug\net8.0-windows\RegistroContactosApp.exe
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\RegistroContactosApp\RegistroContactosApp\bin\Debug\net8.0-windows\RegistroContactosApp.deps.json
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\RegistroContactosApp\RegistroContactosApp\bin\Debug\net8.0-windows\RegistroContactosApp.runtimeconfig.json
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\RegistroContactosApp\RegistroContactosApp\bin\Debug\net8.0-windows\RegistroContactosApp.dll
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\RegistroContactosApp\RegistroContactosApp\bin\Debug\net8.0-windows\RegistroContactosApp.pdb
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\RegistroContactosApp\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp.RegistroContactosApp.resources
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\RegistroContactosApp\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp.csproj.GenerateResource.cache
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\RegistroContactosApp\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\RegistroContactosApp\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp.AssemblyInfoInputs.cache
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\RegistroContactosApp\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp.AssemblyInfo.cs
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\RegistroContactosApp\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp.csproj.CoreCompileInputs.cache
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\RegistroContactosApp\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp.dll
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\RegistroContactosApp\RegistroContactosApp\obj\Debug\net8.0-windows\refint\RegistroContactosApp.dll
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\RegistroContactosApp\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp.pdb
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\RegistroContactosApp\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp.genruntimeconfig.cache
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\RegistroContactosApp\RegistroContactosApp\obj\Debug\net8.0-windows\ref\RegistroContactosApp.dll
